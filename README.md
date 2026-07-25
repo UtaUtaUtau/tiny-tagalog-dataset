@@ -33,8 +33,8 @@ A public Tagalog singing dataset with a masculine voice
  | ty       | tS      |
  | w        | w       |
  | W        | w (coda)|
- | y        | j (coda)|
- | Y        | j       |
+ | y        | j       |
+ | Y        | j (coda)|
  | cl       | ?       |
 
  Other phonemes included are as follows:
