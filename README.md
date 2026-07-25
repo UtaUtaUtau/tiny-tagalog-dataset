@@ -75,5 +75,8 @@ A public Tagalog singing dataset with a masculine voice
 | TGL_core_015 | Paramita - Hiling                             |
 | TGL_core_016 | Paramita - Hiling                             |
 | TGL_core_017 | Paramita - Hiling                             |
+
+# License
+    Tiny Tagalog Dataset  © 2026 by UtaUtaUtau is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 | TGL_core_018 | Aneka Abarrientos - Bakit ('Pag Pinahiwatig)  |
 | TGL_core_019 | Zack Tabudlo - Habang Buhay                   |
