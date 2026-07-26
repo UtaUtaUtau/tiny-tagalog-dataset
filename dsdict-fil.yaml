@@ -1,0 +1,29 @@
+replacements:
+- {from: m, to: m}
+- {from: n, to: n}
+- {from: ng, to: ng}
+- {from: p, to: p}
+- {from: t, to: t}
+- {from: ty, to: ty}
+- {from: k, to: k}
+- {from: q, to: q}
+- {from: b, to: b}
+- {from: d, to: d}
+- {from: dy, to: dy}
+- {from: g, to: g}
+- {from: s, to: s}
+- {from: sy, to: sh}
+- {from: h, to: h}
+- {from: l, to: l}
+- {from: y, to: y}
+- {from: w, to: w}
+- {from: Y, to: Y}
+- {from: W, to: W}
+- {from: r, to: r}
+- {from: vf, to: vf}
+- {from: a, to: a}
+- {from: e, to: e}
+- {from: i, to: i}
+- {from: o, to: o}
+- {from: u, to: u}
+
