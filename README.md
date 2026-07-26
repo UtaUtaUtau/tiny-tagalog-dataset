@@ -82,4 +82,4 @@ A public Tagalog singing dataset with a masculine voice
 
 
 # License
-    Tiny Tagalog Dataset  © 2026 by UtaUtaUtau is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+    Tiny Tagalog Dataset  © 2026 by UtaUtaUtau is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
