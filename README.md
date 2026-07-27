@@ -1,6 +1,19 @@
 # tiny-tagalog-dataset
 A public Tagalog singing dataset with a masculine voice
 
+# Licensing
+ This repository includes multiple licences, but the gist of it is the following:
+
+ - Repository contents are licensed under the MIT License. See [LICENSE](./LICENSE ) for details.
+ - The datasets that are accessible through the [releases](https://github.com/UtaUtaUtau/tiny-tagalog-dataset/releases) are licensed under CC BY-NC 4.0. See [LICENSE-DATASET](./LICENSE-DATASET) for details. By downloading the datasets, you are agreeing to abide by this license.
+
+# FAQ
+### Does this mean I can't use the dataset commercially?
+No. Non-commercial for Creative Commons only makes non-commercial usage its default. You can ask me for permission to use the dataset commercially.
+
+### What does the repository contain then?
+It contains supporting files specifically for [OpenUtau](https://github.com/stakira/OpenUtau). The .dll is a phonemizer that can be installed by putting it in the Plugins folder, and dsdict-fil.yaml contains the replacements table for this phonemizer. The glottal stop phoneme in this case is `q` instead of `cl`.
+
 # Dataset Information
 ## Phoneme System
  This phoneme system follows a phoneme system mostly based on Tagalog orthography. The phonemes are as follows:
@@ -80,6 +93,3 @@ A public Tagalog singing dataset with a masculine voice
 | TGL_core_018 | Aneka Abarrientos - Bakit ('Pag Pinahiwatig)  |
 | TGL_core_019 | Zack Tabudlo - Habang Buhay                   |
 
-
-# License
-    Tiny Tagalog Dataset  © 2026 by UtaUtaUtau is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
