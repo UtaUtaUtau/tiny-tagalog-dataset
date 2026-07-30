@@ -63,7 +63,7 @@ It contains supporting files specifically for [OpenUtau](https://github.com/stak
 
  The tools used for each process is the following:
  - Recording - Audacity/REAPER
- - Compressor - LALA by Analog Obsession
+ - Compressor - [LALA by Analog Obsession](https://www.patreon.com/analogobsession/posts/lala-36128829)
  - Denoise - [melband-roformer-denoise](https://huggingface.co/poiqazwsx/melband-roformer-denoise)
  - Dereverb - [dereverb_bs_roformer](https://huggingface.co/anvuew/dereverb_bs_roformer)
 
