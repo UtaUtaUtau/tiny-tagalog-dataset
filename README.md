@@ -59,13 +59,22 @@ It contains supporting files specifically for [OpenUtau](https://github.com/stak
  | vf      | Vocal fry       |
 
 ## Processing
- This dataset was not recorded in a professional environment, but I tried my best to keep them as good as possible. The audio was also put through a compressor to roughly equalize its dynamics. To compensate for the improper environment, the dataset has been denoised and dereverbed by [PixPrucer](https://youtube.com/@PixPrucer). Long silences were cut-out automatically after. It is then saved in 44.1kHz 16-bit wavs.
+ This dataset was not recorded in a professional environment, but I tried my best to keep them as good as possible. The audio was also put through a compressor to roughly equalize its dynamics. To compensate for the improper environment, the dataset has been denoised and dereverbed by [PixPrucer](https://youtube.com/@PixPrucer). Long silences were cut-out automatically after. It is then saved in 44.1kHz 16-bit wave files.
 
  The tools used for each process is the following:
  - Recording - Audacity/REAPER
  - Compressor - [LALA by Analog Obsession](https://www.patreon.com/analogobsession/posts/lala-36128829)
  - Denoise - [melband-roformer-denoise](https://huggingface.co/poiqazwsx/melband-roformer-denoise)
  - Dereverb - [dereverb_bs_roformer](https://huggingface.co/anvuew/dereverb_bs_roformer)
+
+ ## Statistics
+ Total Length: 00\:38\:56
+ 
+ Phoneme Distribution:
+ <img src="phoneme_distribution.jpg" alt="Phoneme Distribution" />
+
+ Pitch Distribution:
+ <img src="midi_distribution.jpg" alt="Pitch Distribution" />
 
  ## Labeling
  Base labels were generated using SOFA. All of the labels were then corrected by hand.
