@@ -5,8 +5,8 @@ A public Tagalog singing dataset with a masculine voice
  This repository includes multiple licences, but the gist of it is the following:
 
  - Repository contents are licensed under the MIT License. See [LICENSE](./LICENSE ) for details.
- - The datasets that are accessible through the [releases](https://github.com/UtaUtaUtau/tiny-tagalog-dataset/releases) are licensed under CC BY-NC 4.0. See [LICENSE-DATASET](./LICENSE-DATASET) for details. By downloading the datasets, you are agreeing to abide by this license.
-
+ - The datasets that are accessible through the [releases](https://github.com/UtaUtaUtau/tiny-tagalog-dataset/releases/tag/v1.0.0) under the semver tags are licensed under CC BY-NC 4.0. See [LICENSE-DATASET](./LICENSE-DATASET) for details. By downloading the datasets, you are agreeing to abide by this license.
+ - The [WFL-ASR](https://github.com/MLo7Ghinsan/WFL-ASR/tree/refactor) model accessible through the [releases](https://github.com/UtaUtaUtau/tiny-tagalog-dataset/releases/tag/wfl) under the wfl tag is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 # FAQ
 ### Does this mean I can't use the dataset commercially?
 No. Non-commercial for Creative Commons only makes non-commercial usage its default. You can ask me for permission to use the dataset commercially.
