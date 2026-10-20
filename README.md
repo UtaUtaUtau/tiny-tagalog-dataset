@@ -16,39 +16,7 @@ It contains supporting files specifically for [OpenUtau](https://github.com/stak
 
 # Dataset Information
 ## Phoneme System
- This phoneme system follows a phoneme system mostly based on Tagalog orthography. The phonemes are as follows:
- ### Vowels
- | Phoneset | X-SAMPA |
- | -------- | ------- |
- | a        | a       |
- | e        | e       |
- | i        | i       |
- | o        | o       |
- | u        | u       |
- ### Consonants
- | Phoneset | X-SAMPA |
- | -------- | ------- |
- | b        | b       |
- | d        | d       |
- | dy       | dZ      |
- | g        | g       |
- | h        | h       |
- | k        | k       |
- | l        | l       |
- | m        | m       |
- | n        | n       |
- | ng       | N       |
- | p        | p       |
- | r        | 4       |
- | s        | s       |
- | sy       | S       |
- | t        | t       |
- | ty       | tS      |
- | w        | w       |
- | W        | w (coda)|
- | y        | j       |
- | Y        | j (coda)|
- | cl       | ?       |
+ This dataset uses [USAP](https://github.com/UtaUtaUtau/USAP) as its phoneme system, including the coda phonemes, and replaces `q` with `cl`.
 
  Other phonemes included are as follows:
  | Phoneme |   Description   |
